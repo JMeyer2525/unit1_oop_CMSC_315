@@ -13,9 +13,9 @@ This assignment explores object-oriented programming (OOP) concepts in Python, i
 - Apply object-oriented design principles
 
 ## The Approach
-For this discussion I created Server as the parent class and UnbuntuServer as child class. I chose this due to a project
-of mine at work involves me building a server. The UnbuntuServer class comes with common server information and 
-functionality while also having some Unbuntu features.
+For this discussion, I created Server as the parent class and UbuntuServer as a child class. I chose this because a project
+of mine at work involves me building a server. The UbuntuServer class comes with common server information and&nbsp;
+functionality while also having some Ubuntu features.
 
 
 ## Implementation of Requirements
